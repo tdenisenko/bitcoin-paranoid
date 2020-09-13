@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="BTC" filename="bitcoin.png" />
+    <bitmap id="ETH" filename="ethereum.png" />
+    <bitmap id="RefreshIcon" filename="refresh.png" />
+</drawables>

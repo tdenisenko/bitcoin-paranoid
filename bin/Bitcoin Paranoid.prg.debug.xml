@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\tdenisenko\Documents\code\tim\BitcoinParanoid\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="3" lineNum="51" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="3" lineNum="52" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="3" lineNum="53" pc="268435482" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="3" lineNum="54" pc="268435516" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="3" lineNum="55" pc="268435557" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="59" pc="268435585" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="61" pc="268435589" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="62" pc="268435608" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="63" pc="268435633" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="64" pc="268435658" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="65" pc="268435695" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="4" lineNum="68" pc="268435717" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="5" lineNum="77" pc="268435818" symbol="onShow"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="6" lineNum="81" pc="268435823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="6" lineNum="83" pc="268435827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="6" lineNum="84" pc="268435867" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="6" lineNum="85" pc="268435879" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="6" lineNum="86" pc="268435919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="6" lineNum="87" pc="268435941" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="7" lineNum="93" pc="268435952" symbol="onHide"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="8" lineNum="97" pc="268435957" symbol="drawHeight"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="8" lineNum="98" pc="268435961" symbol="drawHeight"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="8" lineNum="99" pc="268435998" symbol="drawHeight"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="9" lineNum="102" pc="268436008" symbol="optionGenerator"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="9" lineNum="103" pc="268436012" symbol="optionGenerator"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="10" lineNum="113" pc="268436248" symbol="formatDate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="10" lineNum="114" pc="268436252" symbol="formatDate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="117" pc="268436372" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="118" pc="268436376" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="119" pc="268436386" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="120" pc="268436402" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="122" pc="268436418" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="123" pc="268436418" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="124" pc="268436429" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="125" pc="268436442" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="126" pc="268436453" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="128" pc="268436466" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="11" lineNum="131" pc="268436476" symbol="formatDuration"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="135" pc="268436480" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="137" pc="268436484" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="138" pc="268436501" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="139" pc="268436544" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="141" pc="268436571" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="143" pc="268436584" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="144" pc="268436589" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="145" pc="268436602" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="146" pc="268436620" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="149" pc="268436658" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="150" pc="268436671" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="151" pc="268436689" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="167" pc="268436727" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="168" pc="268436740" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="170" pc="268436759" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="173" pc="268436785" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="174" pc="268436798" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="175" pc="268436847" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="193" pc="268436889" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="202" pc="268436959" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="208" pc="268437022" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="209" pc="268437044" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="212" pc="268437065" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="220" pc="268437147" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="229" pc="268437232" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="237" pc="268437320" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="239" pc="268437338" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="240" pc="268437345" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="241" pc="268437361" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="242" pc="268437383" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="243" pc="268437399" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="244" pc="268437443" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="245" pc="268437486" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="246" pc="268437530" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="250" pc="268437579" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="257" pc="268437652" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="12" lineNum="259" pc="268437692" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="13" lineNum="266" pc="268437731" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="13" lineNum="267" pc="268437735" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="13" lineNum="268" pc="268437763" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="13" lineNum="269" pc="268437790" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="13" lineNum="270" pc="268437815" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="276" pc="268437888" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="277" pc="268437892" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="280" pc="268437906" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="281" pc="268437924" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="282" pc="268437960" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="286" pc="268437995" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="287" pc="268438014" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="290" pc="268438030" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="291" pc="268438050" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="13" pc="268441459" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="14" pc="268441487" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="20" pc="268441527" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="21" pc="268441541" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="22" pc="268441555" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="23" pc="268441569" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="25" pc="268441583" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="28" pc="268441597" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="38" pc="268441767" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="39" pc="268441807" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidView.mc" id="14" lineNum="40" pc="268441829" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="15" lineNum="9" pc="268441330" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="15" lineNum="10" pc="268441344" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="15" lineNum="11" pc="268441358" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="26" pc="268438067" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="27" pc="268438071" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="28" pc="268438215" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="29" pc="268438237" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="30" pc="268438244" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="31" pc="268438257" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="32" pc="268438276" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="34" pc="268438317" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="36" pc="268438344" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="37" pc="268438354" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="38" pc="268438388" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="17" lineNum="39" pc="268438426" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="18" lineNum="42" pc="268438439" symbol="resetTimer"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="18" lineNum="43" pc="268438443" symbol="resetTimer"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="18" lineNum="44" pc="268438462" symbol="resetTimer"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="18" lineNum="45" pc="268438493" symbol="resetTimer"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="18" lineNum="46" pc="268438511" symbol="resetTimer"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="18" lineNum="47" pc="268438564" symbol="resetTimer"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="19" lineNum="50" pc="268438603" symbol="makePriceRequests"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="19" lineNum="52" pc="268438607" symbol="makePriceRequests"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="19" lineNum="54" pc="268438624" symbol="makePriceRequests"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="19" lineNum="56" pc="268438633" symbol="makePriceRequests"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="19" lineNum="57" pc="268438651" symbol="makePriceRequests"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="19" lineNum="63" pc="268438722" symbol="makePriceRequests"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="67" pc="268438744" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="68" pc="268438748" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="69" pc="268438759" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="70" pc="268438772" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="73" pc="268438805" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="74" pc="268438809" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="75" pc="268438827" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="77" pc="268438966" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="78" pc="268439006" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="80" pc="268439040" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="81" pc="268439062" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="84" pc="268439082" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="85" pc="268439087" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="86" pc="268439117" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="91" pc="268439165" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="92" pc="268439186" symbol="onReceiveData"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\PriceModel.mc" id="20" lineNum="20" pc="268441417" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\CryptoPricesDelegate.mc" id="22" lineNum="8" pc="268439205" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\CryptoPricesDelegate.mc" id="22" lineNum="9" pc="268439209" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\CryptoPricesDelegate.mc" id="22" lineNum="10" pc="268439231" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\CryptoPricesDelegate.mc" id="23" lineNum="13" pc="268439242" symbol="onSelect"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\CryptoPricesDelegate.mc" id="23" lineNum="14" pc="268439246" symbol="onSelect"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\CryptoPricesDelegate.mc" id="23" lineNum="15" pc="268439264" symbol="onSelect"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="25" lineNum="13" pc="268439281" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="25" lineNum="14" pc="268439285" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="25" lineNum="15" pc="268439307" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="25" lineNum="16" pc="268439326" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="26" lineNum="20" pc="268439346" symbol="onStart"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="26" lineNum="21" pc="268439350" symbol="onStart"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="26" lineNum="23" pc="268439388" symbol="onStart"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="26" lineNum="25" pc="268439418" symbol="onStart"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="26" lineNum="26" pc="268439514" symbol="onStart"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="26" lineNum="27" pc="268439552" symbol="onStart"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="27" lineNum="31" pc="268439591" symbol="onStop"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="27" lineNum="32" pc="268439595" symbol="onStop"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="28" lineNum="38" pc="268439620" symbol="getInitialView"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="28" lineNum="39" pc="268439624" symbol="getInitialView"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="29" lineNum="44" pc="268439664" symbol="getGlanceView"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="29" lineNum="45" pc="268439668" symbol="getGlanceView"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidApp.mc" id="29" lineNum="11" pc="268441069" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="31" lineNum="11" pc="268439692" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="31" lineNum="12" pc="268439696" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="31" lineNum="13" pc="268439718" symbol="initialize"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="32" lineNum="43" pc="268439729" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="32" lineNum="45" pc="268439733" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="32" lineNum="46" pc="268439752" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="32" lineNum="47" pc="268439777" symbol="onLayout"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="33" lineNum="53" pc="268439791" symbol="onShow"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="34" lineNum="57" pc="268439796" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="34" lineNum="59" pc="268439800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="34" lineNum="60" pc="268439840" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="34" lineNum="61" pc="268439852" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="34" lineNum="63" pc="268439892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="34" lineNum="64" pc="268439914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="35" lineNum="70" pc="268439925" symbol="onHide"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="36" lineNum="74" pc="268439930" symbol="drawHeight"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="36" lineNum="75" pc="268439934" symbol="drawHeight"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="36" lineNum="76" pc="268439959" symbol="drawHeight"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="80" pc="268439969" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="82" pc="268439973" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="83" pc="268439986" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="84" pc="268440005" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="85" pc="268440059" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="88" pc="268440206" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="90" pc="268440219" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="91" pc="268440232" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="92" pc="268440250" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="95" pc="268440288" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="96" pc="268440301" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="97" pc="268440319" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="100" pc="268440357" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="102" pc="268440373" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="104" pc="268440391" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="105" pc="268440398" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="106" pc="268440414" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="107" pc="268440436" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="108" pc="268440452" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="109" pc="268440496" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="110" pc="268440539" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="111" pc="268440583" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="115" pc="268440632" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="122" pc="268440699" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="37" lineNum="124" pc="268440739" symbol="drawLastPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="38" lineNum="131" pc="268440769" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="38" lineNum="132" pc="268440773" symbol="drawIcon"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="136" pc="268440841" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="137" pc="268440845" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="141" pc="268440859" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="142" pc="268440877" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="143" pc="268440913" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="147" pc="268440948" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="148" pc="268440967" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="151" pc="268440983" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="152" pc="268441003" symbol="onPrice"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="19" pc="268441111" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="20" pc="268441139" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="26" pc="268441179" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="27" pc="268441193" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="28" pc="268441207" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="29" pc="268441221" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="30" pc="268441235" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="31" pc="268441249" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\tdenisenko\\Documents\\code\\tim\\BitcoinParanoid\\source\\BitcoinParanoidGlanceView.mc" id="39" lineNum="35" pc="268441271" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="45" lineNum="19" pc="268441830" symbol="MainLayout"/>
+<entry filename="Rez" id="45" lineNum="21" pc="268441842" symbol="MainLayout"/>
+<entry filename="Rez" id="45" lineNum="22" pc="268441961" symbol="MainLayout"/>
+<entry filename="Rez" id="45" lineNum="24" pc="268442013" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="9" object="true" symbol="BitcoinParanoidView"/>
+<entry field="true" id="33" symbol="dcHeightRefresh"/>
+<entry field="true" id="35" symbol="idx"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="34" symbol="textFont"/>
+<entry field="true" id="60" symbol="diff"/>
+<entry id="65" method="true" symbol="formatDate"/>
+<entry id="74" method="true" symbol="MainLayout"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="8390424" module="true" symbol="Storage"/>
+<entry field="true" id="38" symbol="dateString"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="24" symbol="mCurPrice"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="27" symbol="curCurrencyTime"/>
+<entry field="true" id="18" symbol="GlanceDelegate"/>
+<entry id="64" method="true" symbol="optionGenerator"/>
+<entry field="true" id="59" symbol="lastUpdate"/>
+<entry field="true" id="69" symbol="BTC"/>
+<entry id="54" method="true" symbol="onReceiveData"/>
+<entry field="true" id="39" symbol="currSymbol"/>
+<entry field="true" id="75" symbol="AppName"/>
+<entry id="8389339" symbol="second"/>
+<entry id="12" object="true" symbol="CryptoPricesDelegate"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="14" object="true" symbol="BitcoinParanoidGlanceView"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="61" symbol="ago"/>
+<entry field="true" id="45" symbol="curPrice"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389338" symbol="minute"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="19" symbol="bmapArr"/>
+<entry id="43" method="true" symbol="onPrice"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="31" symbol="dcWidthBM"/>
+<entry field="true" id="72" symbol="id_monkey"/>
+<entry id="13" object="true" symbol="BitcoinParanoidApp"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8389026" method="true" symbol="requestUpdate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="28" symbol="oldCurrencyPrice"/>
+<entry field="true" id="21" symbol="zone"/>
+<entry id="68" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8388923" method="true" symbol="today"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="58" symbol="curUpdate"/>
+<entry field="true" id="32" symbol="dcWidthRefresh"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="29" symbol="dcHeight"/>
+<entry field="true" id="36" symbol="dh"/>
+<entry field="true" id="55" symbol="myText"/>
+<entry field="true" id="47" symbol="cp"/>
+<entry id="66" method="true" symbol="formatDuration"/>
+<entry id="10" object="true" symbol="CryptoPrice"/>
+<entry id="40" method="true" symbol="drawHeight"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="42" method="true" symbol="drawIcon"/>
+<entry field="true" id="50" symbol="curUrls"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry field="true" id="44" symbol="curSymbol"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="15" symbol="Model"/>
+<entry id="11" object="true" symbol="PriceModel"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="8391454" object="true" symbol="GlanceView"/>
+<entry id="53" method="true" symbol="makePriceRequests"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="8388933" method="true" symbol="moment"/>
+<entry field="true" id="71" symbol="RefreshIcon"/>
+<entry field="true" id="26" symbol="curCurrencyPrice"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry field="true" id="56" symbol="bmapDict"/>
+<entry field="true" id="51" symbol="notify"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="73" symbol="LauncherIcon"/>
+<entry field="true" id="17" symbol="GlanceModel"/>
+<entry field="true" id="20" symbol="clockTime"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="48" symbol="myTimer"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="41" method="true" symbol="drawLastPrice"/>
+<entry field="true" id="70" symbol="ETH"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="46" symbol="curTime"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="49" symbol="intervals"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="16" symbol="Delegate"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="62" symbol="heightSplitter"/>
+<entry field="true" id="8388940" symbol="year"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="67" module="true" symbol="Layouts"/>
+<entry field="true" id="22" symbol="commConf"/>
+<entry field="true" id="30" symbol="dcWidth"/>
+<entry field="true" id="57" symbol="options"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8391457" method="true" symbol="getGlanceView"/>
+<entry field="true" id="63" symbol="heightSplitter2"/>
+<entry field="true" id="25" symbol="mCurTime"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="8389023" object="true" symbol="View"/>
+<entry field="true" id="37" symbol="l"/>
+<entry field="true" id="23" symbol="mCurrency"/>
+<entry id="52" method="true" symbol="resetTimer"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435584" name="myMethod" stackId="1" startPc="268435460"/>
+<entry arg="true" endPc="268435818" name="dc" stackId="1" startPc="268435585"/>
+<entry arg="true" endPc="268435952" name="dc" stackId="1" startPc="268435823"/>
+<entry arg="true" endPc="268436008" name="i" stackId="2" startPc="268435957"/>
+<entry arg="true" endPc="268436008" name="dcHeight" stackId="1" startPc="268435957"/>
+<entry arg="true" endPc="268436248" name="string" stackId="1" startPc="268436008"/>
+<entry arg="true" endPc="268436372" name="time" stackId="1" startPc="268436248"/>
+<entry endPc="268436479" name="hours" stackId="2" startPc="268436376"/>
+<entry endPc="268436479" name="mins" stackId="3" startPc="268436376"/>
+<entry endPc="268436479" name="seconds" stackId="4" startPc="268436376"/>
+<entry endPc="268436479" name="durationStr" stackId="5" startPc="268436376"/>
+<entry arg="true" endPc="268436480" name="duration" stackId="1" startPc="268436372"/>
+<entry endPc="268436655" name="i" stackId="4" startPc="268436620"/>
+<entry endPc="268436724" name="i" stackId="5" startPc="268436689"/>
+<entry endPc="268437717" name="price" stackId="9" startPc="268437338"/>
+<entry endPc="268437730" name="i" stackId="8" startPc="268437338"/>
+<entry endPc="268437730" name="intervalStr" stackId="7" startPc="268436484"/>
+<entry endPc="268437730" name="interval" stackId="6" startPc="268436484"/>
+<entry endPc="268437730" name="now" stackId="3" startPc="268436484"/>
+<entry arg="true" endPc="268437731" name="dc" stackId="1" startPc="268436480"/>
+<entry arg="true" endPc="268437731" name="loaded" stackId="2" startPc="268436480"/>
+<entry arg="true" endPc="268437888" name="dc" stackId="1" startPc="268437731"/>
+<entry arg="true" endPc="268437888" name="str" stackId="2" startPc="268437731"/>
+<entry endPc="268437995" name="i" stackId="2" startPc="268437924"/>
+<entry arg="true" endPc="268438064" name="cp" stackId="1" startPc="268437888"/>
+<entry endPc="268438438" name="interval" stackId="2" startPc="268438071"/>
+<entry arg="true" endPc="268438439" name="handlers" stackId="1" startPc="268438067"/>
+<entry endPc="268438719" name="i" stackId="1" startPc="268438651"/>
+<entry endPc="268439082" name="i" stackId="4" startPc="268438827"/>
+<entry endPc="268439159" name="i" stackId="5" startPc="268439117"/>
+<entry endPc="268439162" name="isFull" stackId="3" startPc="268438759"/>
+<entry arg="true" endPc="268439205" name="responseCode" stackId="1" startPc="268438744"/>
+<entry arg="true" endPc="268439205" name="data" stackId="2" startPc="268438744"/>
+<entry arg="true" endPc="268439242" name="priceModel" stackId="1" startPc="268439205"/>
+<entry arg="true" endPc="268439591" name="state" stackId="1" startPc="268439346"/>
+<entry arg="true" endPc="268439620" name="state" stackId="1" startPc="268439591"/>
+<entry arg="true" endPc="268439729" name="bmap" stackId="1" startPc="268439692"/>
+<entry arg="true" endPc="268439791" name="dc" stackId="1" startPc="268439729"/>
+<entry arg="true" endPc="268439925" name="dc" stackId="1" startPc="268439796"/>
+<entry arg="true" endPc="268439969" name="i" stackId="2" startPc="268439930"/>
+<entry arg="true" endPc="268439969" name="dcHeight" stackId="1" startPc="268439930"/>
+<entry endPc="268440285" name="i" stackId="3" startPc="268440250"/>
+<entry endPc="268440354" name="i" stackId="4" startPc="268440319"/>
+<entry endPc="268440755" name="price" stackId="6" startPc="268440391"/>
+<entry endPc="268440768" name="i" stackId="5" startPc="268440391"/>
+<entry arg="true" endPc="268440769" name="dc" stackId="1" startPc="268439969"/>
+<entry arg="true" endPc="268440769" name="loaded" stackId="2" startPc="268439969"/>
+<entry arg="true" endPc="268440841" name="idx" stackId="2" startPc="268440769"/>
+<entry arg="true" endPc="268440841" name="dc" stackId="1" startPc="268440769"/>
+<entry endPc="268440948" name="i" stackId="2" startPc="268440877"/>
+<entry arg="true" endPc="268441017" name="cp" stackId="1" startPc="268440841"/>
+<entry endPc="268442030" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268441842"/>
+<entry arg="true" endPc="268442031" name="dc" stackId="1" startPc="268441830"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="CryptoPricesDelegate" type="class"/>
+<dataEntry offset="245" parentId="globals" symbolId="BitcoinParanoidApp" type="class"/>
+<dataEntry offset="380" parentId="globals" symbolId="BitcoinParanoidGlanceView" type="class"/>
+<dataEntry offset="667" parentId="globals" symbolId="CryptoPrice" type="class"/>
+<dataEntry offset="738" parentId="globals" symbolId="PriceModel" type="class"/>
+<dataEntry offset="857" parentId="globals" symbolId="BitcoinParanoidView" type="class"/>
+<dataEntry offset="2434" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="2513" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="2584" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="2615" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="2646" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="2685" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="2716" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BitcoinParanoidView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BitcoinParanoidView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BitcoinParanoidView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BitcoinParanoidView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BitcoinParanoidView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHeight" parent="BitcoinParanoidView">
+<param id="dcHeight"/>
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="optionGenerator" parent="BitcoinParanoidView">
+<param id="string"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatDate" parent="BitcoinParanoidView">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatDuration" parent="BitcoinParanoidView">
+<param id="duration"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLastPrice" parent="BitcoinParanoidView">
+<param id="dc"/>
+<param id="loaded"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawIcon" parent="BitcoinParanoidView">
+<param id="dc"/>
+<param id="str"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPrice" parent="BitcoinParanoidView">
+<param id="cp"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PriceModel">
+<param id="handlers"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resetTimer" parent="PriceModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makePriceRequests" parent="PriceModel">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceiveData" parent="PriceModel">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CryptoPricesDelegate">
+<param id="priceModel"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="CryptoPricesDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BitcoinParanoidApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BitcoinParanoidApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BitcoinParanoidApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BitcoinParanoidApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getGlanceView" parent="BitcoinParanoidApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BitcoinParanoidGlanceView">
+<param id="bmap"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BitcoinParanoidGlanceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BitcoinParanoidGlanceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BitcoinParanoidGlanceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BitcoinParanoidGlanceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHeight" parent="BitcoinParanoidGlanceView">
+<param id="dcHeight"/>
+<param id="i"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLastPrice" parent="BitcoinParanoidGlanceView">
+<param id="dc"/>
+<param id="loaded"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawIcon" parent="BitcoinParanoidGlanceView">
+<param id="dc"/>
+<param id="idx"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPrice" parent="BitcoinParanoidGlanceView">
+<param id="cp"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
